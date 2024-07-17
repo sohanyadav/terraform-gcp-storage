@@ -117,3 +117,4 @@ variable "lifecycle_rules" {
   default = []
   description = "The bucket's Lifecycle Rules configuration."
 }
+
