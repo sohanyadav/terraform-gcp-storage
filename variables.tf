@@ -12,8 +12,8 @@ variable "environment" {
 
 variable "managedby" {
   type    = string
-  default = "opsstation"
-  description = "ManagedBy, opsstation"
+  default = "example"
+  description = "ManagedBy, sohanyadav"
 }
 
 variable "repository" {
@@ -37,7 +37,7 @@ variable "enabled" {
 variable "labels" {
   type    = map(any)
   default = {}
-  description = "ManagedBy, opsstation"
+  description = "ManagedBy, sohanyadav"
 }
 
 variable "location" {
