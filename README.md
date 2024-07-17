@@ -120,7 +120,7 @@ This project is licensed under the MIT License - see the [LICENSE](https://githu
 ## Resources
 
 | Name | Type |
-|------|------|o
+|+|------|------|
 | [google_storage_bucket.bucket](https://registry.terraform.io/providers/hashicorp/google/latest/docs/resources/storage_bucket) | resource |
 
 ## Inputs
